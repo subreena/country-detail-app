@@ -1,0 +1,25 @@
+.country-content{
+    display: flex;
+    padding: 25px 30px;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.253);
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.country-content img{
+    height: 100px;
+    width: 150px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.country-text{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
